@@ -8,4 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Live
-https://weather-app-fawn-xi-77.vercel.app/
+[https://weather-app-fawn-xi-77.vercel.app/
+](https://weather-app-eight-umber-32.vercel.app/)
